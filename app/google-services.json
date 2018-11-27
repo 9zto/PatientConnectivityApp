@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "218653666480",
+    "firebase_url": "https://patientapp-cc009.firebaseio.com",
+    "project_id": "patientapp-cc009",
+    "storage_bucket": "patientapp-cc009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218653666480:android:cbc56df637066b3e",
+        "android_client_info": {
+          "package_name": "com.example.q489.patientappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218653666480-b9ahhjnnhn54qnjmjvne46ke4qca1knk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfidtWFaIoeDB_Wsuqai9vwdnmyXTw68A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
