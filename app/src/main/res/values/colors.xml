@@ -10,5 +10,6 @@
     <color name="peacockBlue">#1E656D</color>
     <color name="ivory">#F1F3CE</color>
     <color name="candyApple">#F62A00</color>
+    <color name="black">#000000</color>
 
 </resources>

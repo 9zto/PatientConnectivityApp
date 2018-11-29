@@ -9,21 +9,16 @@
     tools:context=".HomeScreen">
 
     <Button
-        android:id="@+id/openPositive"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="93dp"
-        android:textColor="#ffffff"
-        android:backgroundTint="@color/navy"
-        android:text="View Positive News" />
-
-    <Button
         android:layout_below="@+id/openPositive"
-        android:padding="8dp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
         android:backgroundTint="@color/candyApple"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Chat With Other Patients"/>
+        android:padding="8dp"
+        android:text="Begin Messaging"
+        tools:id="openChatBttn"
+        tools:layout_alignParentTop="false"
+        tools:layout_centerHorizontal="true" />
 
 </RelativeLayout>

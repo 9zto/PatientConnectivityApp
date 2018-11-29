@@ -44,7 +44,8 @@ public class ChatScreen extends AppCompatActivity {
     public void sendMessage(View view){
         EditText editText = findViewById(R.id.editText);
 
-        databaseReference.setValue(editText);
+        databaseReference.push().setValue(editText.getText().toString());
+        editText.setText("");
 
     }
 }

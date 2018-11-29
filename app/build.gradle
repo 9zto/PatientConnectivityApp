@@ -39,9 +39,9 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.5'
 
     //noinspection GradleDependency
-    compile 'com.google.firebase:firebase-core:16.0.1'
+    implementation 'com.google.firebase:firebase-core:16.0.1'
     //noinspection GradleDependency
-    compile 'com.google.firebase:firebase-database:16.0.1'
+    implementation 'com.google.firebase:firebase-database:16.0.1'
 
 
 }
