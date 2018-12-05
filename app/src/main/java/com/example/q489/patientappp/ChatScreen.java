@@ -38,7 +38,7 @@ public class ChatScreen extends AppCompatActivity {
 
                 messageLog.setText("ERROR: MESSAGE NOT SENT");
             }
-        })
+        });
     }
 
     public void sendMessage(View view){
